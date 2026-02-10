@@ -1,0 +1,4 @@
+streamlit>=1.31
+tensorflow>=2.13
+pillow>=10.0
+numpy>=1.23
